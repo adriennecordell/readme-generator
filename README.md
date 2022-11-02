@@ -1,1 +1,49 @@
-# readme-generator
+# README Generator
+
+
+## Contact
+- adriennecordell
+- adrienne.cordellac@gmail.com
+
+## Description
+
+ - I created this project to make it easier and faster to generate a readme file.
+ 
+
+## Installation
+
+- to use my project you need to clone my repo to your local computer,  open index.js file and run node index.js. Then just answer all the questions that are applicable and by the end yo should see a message "Successfully generated README!" and should have a readme file pop up at the bottom of the folder! 
+
+## Usage
+
+- You can use a readme to add some info on you rproject for others to read before they start using your project.
+
+
+## Credits
+
+-  
+
+## License
+
+- MIT liscense
+
+## Badges
+
+- 
+
+
+## Features
+
+- Generated a readme
+
+
+## How to Contribute
+- 
+
+
+## Tests
+
+-  
+
+## Links 
+- 
