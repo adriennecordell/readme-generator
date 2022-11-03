@@ -13,7 +13,7 @@
 ## Installation
 
 - to use my project you need to clone my repo to your local computer,  open index.js file and run node index.js. Then just answer all the questions that are applicable and by the end yo should see a message "Successfully generated README!" and should have a readme file pop up at the bottom of the folder! 
--https://user-images.githubusercontent.com/110563204/199625002-0b614f53-211e-4541-9c71-3e6004fe3754.mov
+-  ![name](https://user-images.githubusercontent.com/110563204/199625002-0b614f53-211e-4541-9c71-3e6004fe3754.mov)
 
 
 ## Usage
